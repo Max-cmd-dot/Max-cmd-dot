@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dracula)
 
 <!--
 **Max-cmd-dot/Max-cmd-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
