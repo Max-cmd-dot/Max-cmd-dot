@@ -5,7 +5,7 @@
 ### Welcome to my Github
 
 ![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dark)
-![Max-cmd-dot wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Max-cmd-dot&show_icons=true&theme=dark)
+![Max-cmd-dot wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Max-cmd-dot)
 
 - 🔭 I’m currently working on IG bot.
 - 🌱 I’m currently learning typo 3.
