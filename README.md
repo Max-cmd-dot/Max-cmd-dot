@@ -1,8 +1,10 @@
+<img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
+
+
 ### Hi there 👋
 ### Welcome to my Github
 
 ![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dark)
-<img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
 
 - 🔭 I’m currently working on IG bot.
 - 🌱 I’m currently learning typo 3.
