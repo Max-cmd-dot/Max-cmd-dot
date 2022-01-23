@@ -16,5 +16,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
 <img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
