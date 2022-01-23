@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Welcome to my Github
 
-![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dracula)
-
+![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&theme=dark&show_icons=true&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
