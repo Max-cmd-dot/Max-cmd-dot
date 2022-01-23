@@ -21,6 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
-<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://Cheataway.com" target="_blank"><img src="https://platane.github.io/snk/" alt="sneke"></a>
 
 //
