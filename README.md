@@ -1,6 +1,6 @@
 
 
-
+<img align="center" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
 ### Hi there 👋
 ### Welcome to my Github
 
@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
-<img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
+
