@@ -3,8 +3,7 @@
 //
 
 ### Hi there 👋
-### Welcome to my Github
-
+<h2 style="font-family:verdana" align="left">### Welcome to my Github</h2>
 ![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on IG bot.
