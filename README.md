@@ -2,8 +2,6 @@
 ### Welcome to my Github
 
 ![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&theme=dark&show_icons=true&theme=aura)
-
-
 <img align="right" alt="" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="180" />
 
 - 🔭 I’m currently working on IG bot.
