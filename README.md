@@ -7,13 +7,7 @@
 
 ![Max-cmd-dot github stats](https://github-readme-stats.vercel.app/api?username=Max-cmd-dot&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on IG bot.
-- 🌱 I’m currently learning typo 3.
-- 👯 I’m looking to collaborate with you.
-- 🤔 I’m looking for help with everything.
-- 💬 Ask me about everything.
-- 📫 How to reach me: you have to find out.
-- ⚡ Fun fact: I love terraforming.
+
 
 <h2 style="font-family:verdana" align="left">Experience in:</h2>
 
